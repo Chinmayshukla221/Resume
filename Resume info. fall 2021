@@ -1,0 +1,43 @@
+CMPE 202
+Starbucks:
+	Challenges: I didn’t knew java. Workload was too much. 
+	Mistakes/failures: Didn’t start the project as soon as possible
+Enjoyed: The process was incremental. Solving the testcases gave a good understanding of the design patterns. 
+What you’d do differently: Learn java before hand and start the Starbucks project as soon as possible.
+Technical portion of the project this project dealt with design patterns, clean code and UML design.
+Bad Chess:
+	Challenges: Had some problems merging the nodes 
+Mistakes/failures: Failed to adequately communicate to my teammates about the progress of my portion of the project. Had some problems using Github.
+	Enjoyed: Trying new approaches for building chess and playing with greenfoot.
+Leadership: I took initiative of starting and giving a foundation of the project. While coding I tried to implement my code such that it would be easier for my teammates to do their work.
+	Conflicts: 
+	What you’d do differently: Time management and communication. 
+	Technical portion of the project: Design pattern, Agile software development, clean code, software development process and Github
+CMPE 245
+Made a wireless(ASK and LoRa) and landline setup for jetson nano:
+	Challenges: Our group was the first group to try doing the whole project on the Nvidia Jetson nano. Due to lack of documentation and 
+	Mistakes/failures: Didn’t consider the voltage of the ASK antenna.
+	Enjoyed: The teamwork
+	Leadership: I often took initiative for the team meetings.
+	Conflicts:
+	What you’d do differently:
+Technical portion of this project : This project followed IEEE protocol. Implementation of algorithms parts. Developed a synchronization algorithm called a linear invariant synchronous algorithm(LISA). This algorithm was developed to realize the header and payload sync part. Tested ASK communication. Discovered different coding techniques and implemented them in the project.
+Old projects
+Arduino:
+Obstacle avoiding Robot:
+		Challenges: Was not familiar with Arduino uno and never used different sensory on a development board.
+		Mistakes/failures: 
+		Enjoyed:
+		Leadership:
+		Conflicts:
+		What you’d do differently:
+Biometric time and attendance system:
+		Challenges:
+		Mistakes/failures:
+		Enjoyed:
+		Leadership:
+		Conflicts:
+		What you’d do differently:
+Real time vehicle identification system on raspberry pi
+Smart home solutions using esp32 and node mcu
+
